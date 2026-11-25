@@ -2,3 +2,8 @@
 raw_csv/
 __pycache__/
 *.pyc
+*.pyo
+data/alerts.db
+*.joblib.bak
+.env
+.DS_Store

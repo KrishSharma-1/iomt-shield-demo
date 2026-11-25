@@ -1,0 +1,15 @@
+{
+  "10.0.1.10": {"name": "ICU Infusion Pump #1",      "ward": "ICU",        "type": "Infusion Pump",    "criticality": "CRITICAL", "x": 0.15, "y": 0.80},
+  "10.0.1.11": {"name": "ICU Infusion Pump #2",      "ward": "ICU",        "type": "Infusion Pump",    "criticality": "CRITICAL", "x": 0.15, "y": 0.68},
+  "10.0.1.12": {"name": "ICU Ventilator Unit A",     "ward": "ICU",        "type": "Ventilator",       "criticality": "CRITICAL", "x": 0.25, "y": 0.74},
+  "10.0.2.20": {"name": "MRI Scanner Unit A",        "ward": "Radiology",  "type": "MRI Scanner",      "criticality": "CRITICAL", "x": 0.80, "y": 0.80},
+  "10.0.2.21": {"name": "CT Scanner Bay 1",          "ward": "Radiology",  "type": "CT Scanner",       "criticality": "HIGH",     "x": 0.80, "y": 0.60},
+  "10.0.3.30": {"name": "ECG Monitor — Ward 3",      "ward": "Cardiology", "type": "ECG Monitor",      "criticality": "HIGH",     "x": 0.50, "y": 0.80},
+  "10.0.3.31": {"name": "ECG Monitor — Ward 4",      "ward": "Cardiology", "type": "ECG Monitor",      "criticality": "HIGH",     "x": 0.50, "y": 0.60},
+  "10.0.4.40": {"name": "Patient Bed Sensor #12",    "ward": "General",    "type": "Bed Sensor",       "criticality": "MEDIUM",   "x": 0.50, "y": 0.30},
+  "10.0.4.41": {"name": "Patient Bed Sensor #13",    "ward": "General",    "type": "Bed Sensor",       "criticality": "MEDIUM",   "x": 0.65, "y": 0.30},
+  "10.0.5.50": {"name": "Smart Insulin Dispenser",   "ward": "Endocrine",  "type": "Drug Dispenser",   "criticality": "HIGH",     "x": 0.20, "y": 0.30},
+  "10.0.5.51": {"name": "BP Monitor Station A",      "ward": "Endocrine",  "type": "BP Monitor",       "criticality": "MEDIUM",   "x": 0.35, "y": 0.30},
+  "10.0.6.60": {"name": "MQTT Gateway Router",       "ward": "Network",    "type": "Network Gateway",  "criticality": "CRITICAL", "x": 0.50, "y": 0.50}
+}
+
